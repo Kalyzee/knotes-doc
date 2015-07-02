@@ -2,5 +2,5 @@
 
 * [Introduction](README.md)
 * [Installation guide](installation_guide.md)
-* Using KNotes
+* [Using KNotes](using_knotes.md)
 
