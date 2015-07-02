@@ -1,7 +1,3 @@
-This XBLock allows student taking notes from video. 
-
-![](http://www.kalyzee.com/wp-content/uploads/2015/06/CGQ-VDNWgAAYd3F.png)
-
 # Installation guide
 
 To install this plugin you need to be in the python virtual environement of your edx-platform and execute this command from this Xblock folder
