@@ -1,4 +1,4 @@
 # Summary
 
-* Installation guide
+* [Installation guide](installation_guide.md)
 
